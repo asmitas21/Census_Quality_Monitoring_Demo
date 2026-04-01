@@ -1,0 +1,13 @@
+/* US Census Bureau — design tokens */
+:root {
+  --census-blue: #002e5d;
+  --census-blue-light: #004b87;
+  --census-blue-dark: #001a33;
+  --census-gold: #c9a227;
+  --census-white: #ffffff;
+  --severity-high: #b71c1c;
+  --severity-medium: #e65100;
+  --severity-low: #f9a825;
+  --severity-ok: #2e7d32;
+  --font-sans: "Source Sans 3", Inter, system-ui, sans-serif;
+}

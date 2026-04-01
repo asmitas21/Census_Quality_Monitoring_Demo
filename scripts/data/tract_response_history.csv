@@ -1,0 +1,203 @@
+county_fips,county_name,crrall_2010,crrall_2020,delta,state_abbr,state_fips,tract_fips,tract_name
+48137,Edwards County,44.2,18.8,-25.4,TX,48,48137950300,Tract 9503.00
+48301,Loving County,53.8,19.2,-34.6,TX,48,48301950100,Tract 9501.00
+48385,Real County,51.2,20.3,-30.9,TX,48,48385950100,Tract 9501.00
+48229,Hudspeth County,54.6,22.9,-31.7,TX,48,48229950300,Tract 9503.00
+35003,Catron County,46.8,22.8,-24.0,NM,35,35003976401,Tract 9764.01
+35033,Mora County,52.3,27.5,-24.8,NM,35,35033955201,Tract 9552.01
+35027,Lincoln County,57.5,35.9,-21.6,NM,35,35027960300,Tract 9603.00
+46102,Oglala Lakota County,45.0,16.3,-28.7,SD,46,46102000100,Tract 0001.00
+46121,Todd County,47.2,15.4,-31.7,SD,46,46121000100,Tract 0001.00
+04001,Apache County,40.5,13.1,-27.4,AZ,04,04001942600,Tract 9426.00
+04017,Navajo County,54.3,19.7,-34.6,AZ,04,04017940008,Tract 9400.08
+06051,Mono County,68.6,36.6,-32.0,CA,06,06051000101,Tract 0001.01
+12029,Dixie County,57.0,31.7,-25.3,FL,12,12029970101,Tract 9701.01
+12043,Glades County,60.6,33.8,-26.8,FL,12,12043000201,Tract 0002.01
+02068,Denali Borough,44.5,18.3,-26.2,AK,02,02068000100,Tract 0001.00
+48189,"Hale County, Texas",29.5,32.6,3.1,TX,48,48189950700,Tract 9507.00
+48113,"Dallas County, Texas",76.7,71.8,-4.9,TX,48,48113016518,Tract 0165.18
+06037,"Los Angeles County, California",71.4,74.5,3.1,CA,06,06037532303,Tract 5323.03
+06037,"Los Angeles County, California",48.8,50.8,2.0,CA,06,06037189600,Tract 1896.00
+36029,"Erie County, New York",86.8,85.2,-1.6,NY,36,36029015201,Tract 0152.01
+48439,"Tarrant County, Texas",53.3,49.9,-3.4,TX,48,48439121703,Tract 1217.03
+17059,"Gallatin County, Illinois",55.0,59.6,4.6,IL,17,17059972800,Tract 9728.00
+36047,"Kings County, New York",58.7,57.1,-1.6,NY,36,36047078601,Tract 0786.01
+36063,"Niagara County, New York",83.1,79.0,-4.1,NY,36,36063022300,Tract 0223.00
+36093,"Schenectady County, New York",69.3,65.3,-4.0,NY,36,36093020600,Tract 0206.00
+06037,"Los Angeles County, California",66.3,69.8,3.5,CA,06,06037430724,Tract 4307.24
+06029,"Kern County, California",34.6,35.6,1.0,CA,06,06029004500,Tract 0045.00
+48215,"Hidalgo County, Texas",40.8,43.9,3.1,TX,48,48215024211,Tract 0242.11
+48453,"Travis County, Texas",84.9,87.2,2.3,TX,48,48453033700,Tract 0337.00
+36105,"Sullivan County, New York",51.8,52.2,0.4,NY,36,36105950100,Tract 9501.00
+48201,"Harris County, Texas",77.0,81.7,4.7,TX,48,48201554409,Tract 5544.09
+17179,"Tazewell County, Illinois",76.4,75.2,-1.2,IL,17,17179021900,Tract 0219.00
+48041,"Brazos County, Texas",74.1,74.6,0.5,TX,48,48041000107,Tract 0001.07
+17089,"Kane County, Illinois",80.4,83.7,3.3,IL,17,17089852002,Tract 8520.02
+36055,"Monroe County, New York",40.1,41.3,1.2,NY,36,36055009603,Tract 0096.03
+36071,"Orange County, New York",70.0,73.6,3.6,NY,36,36071012200,Tract 0122.00
+36103,"Suffolk County, New York",73.2,74.0,0.8,NY,36,36103147401,Tract 1474.01
+17093,"Kendall County, Illinois",76.0,78.0,2.0,IL,17,17093890502,Tract 8905.02
+48201,"Harris County, Texas",65.2,60.7,-4.5,TX,48,48201412201,Tract 4122.01
+12099,"Palm Beach County, Florida",76.4,73.7,-2.7,FL,12,12099000903,Tract 0009.03
+04015,"Mohave County, Arizona",70.2,68.1,-2.1,AZ,04,04015950703,Tract 9507.03
+06081,"San Mateo County, California",79.2,75.0,-4.2,CA,06,06081605902,Tract 6059.02
+06097,"Sonoma County, California",78.4,75.7,-2.7,CA,06,06097152203,Tract 1522.03
+17031,"Cook County, Illinois",82.7,78.7,-4.0,IL,17,17031700501,Tract 7005.01
+35013,"Doña Ana County, New Mexico",51.6,49.4,-2.2,NM,35,35013001805,Tract 0018.05
+36047,"Kings County, New York",70.7,72.1,1.4,NY,36,36047003700,Tract 0037.00
+48439,"Tarrant County, Texas",64.8,63.4,-1.4,TX,48,48439111020,Tract 1110.20
+48201,"Harris County, Texas",50.2,48.9,-1.3,TX,48,48201413204,Tract 4132.04
+36005,"Bronx County, New York",56.7,53.8,-2.9,NY,36,36005005001,Tract 0050.01
+12133,"Washington County, Florida",70.0,67.7,-2.3,FL,12,12133970102,Tract 9701.02
+12095,"Orange County, Florida",37.1,41.5,4.4,FL,12,12095015001,Tract 0150.01
+48303,"Lubbock County, Texas",77.1,78.6,1.5,TX,48,48303010413,Tract 0104.13
+06037,"Los Angeles County, California",61.3,62.4,1.1,CA,06,06037541605,Tract 5416.05
+06037,"Los Angeles County, California",62.0,58.7,-3.3,CA,06,06037186201,Tract 1862.01
+36081,"Queens County, New York",69.6,71.9,2.3,NY,36,36081066301,Tract 0663.01
+36081,"Queens County, New York",56.9,53.5,-3.4,NY,36,36081012200,Tract 0122.00
+48041,"Brazos County, Texas",62.3,61.1,-1.2,TX,48,48041000700,Tract 0007.00
+06037,"Los Angeles County, California",74.1,79.0,4.9,CA,06,06037271400,Tract 2714.00
+17031,"Cook County, Illinois",86.4,87.8,1.4,IL,17,17031804000,Tract 8040.00
+04003,"Cochise County, Arizona",47.0,47.6,0.6,AZ,04,04003001000,Tract 0010.00
+06079,"San Luis Obispo County, California",72.3,74.1,1.8,CA,06,06079012502,Tract 0125.02
+06087,"Santa Cruz County, California",73.4,76.8,3.4,CA,06,06087122500,Tract 1225.00
+48029,"Bexar County, Texas",64.0,66.8,2.8,TX,48,48029180202,Tract 1802.02
+32003,"Clark County, Nevada",54.5,51.8,-2.7,NV,32,32003002501,Tract 0025.01
+04013,"Maricopa County, Arizona",68.9,64.2,-4.7,AZ,04,04013216816,Tract 2168.16
+48121,"Denton County, Texas",61.4,59.6,-1.8,TX,48,48121021728,Tract 0217.28
+48113,"Dallas County, Texas",42.8,40.5,-2.3,TX,48,48113013011,Tract 0130.11
+48029,"Bexar County, Texas",68.6,65.7,-2.9,TX,48,48029131802,Tract 1318.02
+06037,"Los Angeles County, California",53.9,58.3,4.4,CA,06,06037576501,Tract 5765.01
+06073,"San Diego County, California",71.4,75.2,3.8,CA,06,06073001802,Tract 0018.02
+06037,"Los Angeles County, California",72.3,70.4,-1.9,CA,06,06037301702,Tract 3017.02
+36077,"Otsego County, New York",58.8,60.4,1.6,NY,36,36077591401,Tract 5914.01
+48355,"Nueces County, Texas",62.0,61.0,-1.0,TX,48,48355001802,Tract 0018.02
+48415,"Scurry County, Texas",40.0,44.1,4.1,TX,48,48415950100,Tract 9501.00
+17031,"Cook County, Illinois",72.7,72.3,-0.4,IL,17,17031820800,Tract 8208.00
+48121,"Denton County, Texas",74.4,72.0,-2.4,TX,48,48121021530,Tract 0215.30
+36081,"Queens County, New York",64.7,62.2,-2.5,NY,36,36081045400,Tract 0454.00
+36047,"Kings County, New York",50.8,51.4,0.6,NY,36,36047031100,Tract 0311.00
+04013,"Maricopa County, Arizona",50.3,47.9,-2.4,AZ,04,04013113201,Tract 1132.01
+12086,"Miami-Dade County, Florida",56.3,57.1,0.8,FL,12,12086005104,Tract 0051.04
+04013,"Maricopa County, Arizona",39.4,43.4,4.0,AZ,04,04013117300,Tract 1173.00
+12071,"Lee County, Florida",73.0,72.0,-1.0,FL,12,12071001001,Tract 0010.01
+36119,"Westchester County, New York",89.2,86.4,-2.8,NY,36,36119012101,Tract 0121.01
+04013,"Maricopa County, Arizona",58.7,63.7,5.0,AZ,04,04013104401,Tract 1044.01
+12086,"Miami-Dade County, Florida",55.0,55.1,0.1,FL,12,12086001006,Tract 0010.06
+17167,"Sangamon County, Illinois",89.6,85.5,-4.1,IL,17,17167003202,Tract 0032.02
+06113,"Yolo County, California",86.9,82.4,-4.5,CA,06,06113010607,Tract 0106.07
+36005,"Bronx County, New York",65.3,61.4,-3.9,NY,36,36005022902,Tract 0229.02
+36029,"Erie County, New York",48.9,50.2,1.3,NY,36,36029003700,Tract 0037.00
+48201,"Harris County, Texas",67.0,69.9,2.9,TX,48,48201334102,Tract 3341.02
+06073,"San Diego County, California",64.5,63.7,-0.8,CA,06,06073003404,Tract 0034.04
+48201,"Harris County, Texas",51.6,47.2,-4.4,TX,48,48201310102,Tract 3101.02
+06087,"Santa Cruz County, California",73.1,71.9,-1.2,CA,06,06087101200,Tract 1012.00
+06071,"San Bernardino County, California",56.9,61.9,5.0,CA,06,06071007303,Tract 0073.03
+12017,"Citrus County, Florida",67.1,67.4,0.3,FL,12,12017451001,Tract 4510.01
+48215,"Hidalgo County, Texas",36.1,40.8,4.7,TX,48,48215022112,Tract 0221.12
+36061,"New York County, New York",67.5,71.1,3.6,NY,36,36061018500,Tract 0185.00
+06075,"San Francisco County, California",78.1,73.2,-4.9,CA,06,06075061000,Tract 0610.00
+06037,"Los Angeles County, California",55.7,57.9,2.2,CA,06,06037535300,Tract 5353.00
+06077,"San Joaquin County, California",54.0,55.8,1.8,CA,06,06077001900,Tract 0019.00
+12085,"Martin County, Florida",67.6,68.0,0.4,FL,12,12085001407,Tract 0014.07
+06097,"Sonoma County, California",61.7,59.4,-2.3,CA,06,06097153102,Tract 1531.02
+12103,"Pinellas County, Florida",75.9,77.3,1.4,FL,12,12103024202,Tract 0242.02
+32003,"Clark County, Nevada",75.1,71.2,-3.9,NV,32,32003002848,Tract 0028.48
+06085,"Santa Clara County, California",90.5,89.8,-0.7,CA,06,06085511918,Tract 5119.18
+36081,"Queens County, New York",76.5,76.0,-0.5,NY,36,36081157101,Tract 1571.01
+06059,"Orange County, California",74.1,78.6,4.5,CA,06,06059042334,Tract 0423.34
+06065,"Riverside County, California",73.2,77.0,3.8,CA,06,06065030900,Tract 0309.00
+48021,"Bastrop County, Texas",62.8,60.4,-2.4,TX,48,48021950201,Tract 9502.01
+17031,"Cook County, Illinois",42.8,42.8,0.0,IL,17,17031310500,Tract 3105.00
+35013,"Doña Ana County, New Mexico",80.4,77.2,-3.2,NM,35,35013001310,Tract 0013.10
+12081,"Manatee County, Florida",62.1,66.2,4.1,FL,12,12081002005,Tract 0020.05
+48417,"Shackelford County, Texas",42.1,45.8,3.7,TX,48,48417950300,Tract 9503.00
+48085,"Collin County, Texas",86.8,84.8,-2.0,TX,48,48085032009,Tract 0320.09
+48201,"Harris County, Texas",63.5,64.9,1.4,TX,48,48201533301,Tract 5333.01
+36103,"Suffolk County, New York",72.8,73.9,1.1,NY,36,36103159201,Tract 1592.01
+48215,"Hidalgo County, Texas",75.9,72.4,-3.5,TX,48,48215020807,Tract 0208.07
+36047,"Kings County, New York",68.2,70.8,2.6,NY,36,36047050600,Tract 0506.00
+36007,"Broome County, New York",58.7,59.1,0.4,NY,36,36007013600,Tract 0136.00
+12086,"Miami-Dade County, Florida",66.3,69.1,2.8,FL,12,12086017700,Tract 0177.00
+48123,"DeWitt County, Texas",44.4,44.7,0.3,TX,48,48123970500,Tract 9705.00
+12127,"Volusia County, Florida",41.5,36.5,-5.0,FL,12,12127082704,Tract 0827.04
+48491,"Williamson County, Texas",92.3,90.5,-1.8,TX,48,48491020706,Tract 0207.06
+17031,"Cook County, Illinois",89.4,84.6,-4.8,IL,17,17031827901,Tract 8279.01
+48355,"Nueces County, Texas",53.6,57.9,4.3,TX,48,48355001903,Tract 0019.03
+32031,"Washoe County, Nevada",86.0,89.8,3.8,NV,32,32031003514,Tract 0035.14
+48029,"Bexar County, Texas",59.3,62.6,3.3,TX,48,48029190503,Tract 1905.03
+36047,"Kings County, New York",48.1,46.2,-1.9,NY,36,36047088400,Tract 0884.00
+12033,"Escambia County, Florida",68.2,63.8,-4.4,FL,12,12033003507,Tract 0035.07
+36083,"Rensselaer County, New York",78.1,81.9,3.8,NY,36,36083052402,Tract 0524.02
+06037,"Los Angeles County, California",68.1,72.6,4.5,CA,06,06037276605,Tract 2766.05
+17031,"Cook County, Illinois",78.7,74.6,-4.1,IL,17,17031810502,Tract 8105.02
+06073,"San Diego County, California",73.7,73.6,-0.1,CA,06,06073000901,Tract 0009.01
+36047,"Kings County, New York",54.6,50.3,-4.3,NY,36,36047042000,Tract 0420.00
+06067,"Sacramento County, California",75.5,78.1,2.6,CA,06,06067007438,Tract 0074.38
+12105,"Polk County, Florida",58.5,61.2,2.7,FL,12,12105014501,Tract 0145.01
+06037,"Los Angeles County, California",79.6,75.9,-3.7,CA,06,06037543601,Tract 5436.01
+04011,"Greenlee County, Arizona",45.6,45.4,-0.2,AZ,04,04011960200,Tract 9602.00
+36103,"Suffolk County, New York",78.1,78.6,0.5,NY,36,36103122604,Tract 1226.04
+35001,"Bernalillo County, New Mexico",64.9,62.6,-2.3,NM,35,35001004001,Tract 0040.01
+32031,"Washoe County, Nevada",62.0,65.7,3.7,NV,32,32031001704,Tract 0017.04
+17031,"Cook County, Illinois",87.9,87.1,-0.8,IL,17,17031803603,Tract 8036.03
+35015,"Eddy County, New Mexico",60.1,57.2,-2.9,NM,35,35015000402,Tract 0004.02
+36075,"Oswego County, New York",79.6,80.0,0.4,NY,36,36075021003,Tract 0210.03
+32003,"Clark County, Nevada",66.9,69.2,2.3,NV,32,32003001712,Tract 0017.12
+06041,"Marin County, California",76.6,73.6,-3.0,CA,06,06041123000,Tract 1230.00
+06065,"Riverside County, California",78.1,76.2,-1.9,CA,06,06065043506,Tract 0435.06
+12091,"Okaloosa County, Florida",55.5,60.5,5.0,FL,12,12091020305,Tract 0203.05
+36081,"Queens County, New York",55.0,56.5,1.5,NY,36,36081019400,Tract 0194.00
+48481,"Wharton County, Texas",53.0,52.4,-0.6,TX,48,48481740200,Tract 7402.00
+32003,"Clark County, Nevada",71.3,71.5,0.2,NV,32,32003005808,Tract 0058.08
+12095,"Orange County, Florida",78.5,74.7,-3.8,FL,12,12095013607,Tract 0136.07
+04013,"Maricopa County, Arizona",81.5,78.7,-2.8,AZ,04,04013103400,Tract 1034.00
+06037,"Los Angeles County, California",50.6,49.0,-1.6,CA,06,06037190702,Tract 1907.02
+04013,"Maricopa County, Arizona",79.6,80.5,0.9,AZ,04,04013611900,Tract 6119.00
+36019,"Clinton County, New York",52.8,50.1,-2.7,NY,36,36019103100,Tract 1031.00
+12099,"Palm Beach County, Florida",78.4,75.6,-2.8,FL,12,12099004813,Tract 0048.13
+48477,"Washington County, Texas",59.2,54.9,-4.3,TX,48,48477170601,Tract 1706.01
+48201,"Harris County, Texas",40.2,41.5,1.3,TX,48,48201310800,Tract 3108.00
+48453,"Travis County, Texas",64.8,62.1,-2.7,TX,48,48453035600,Tract 0356.00
+06037,"Los Angeles County, California",64.1,68.2,4.1,CA,06,06037535802,Tract 5358.02
+36103,"Suffolk County, New York",81.0,84.6,3.6,NY,36,36103147100,Tract 1471.00
+36101,"Steuben County, New York",49.7,45.4,-4.3,NY,36,36101961400,Tract 9614.00
+48201,"Harris County, Texas",58.4,55.8,-2.6,TX,48,48201230500,Tract 2305.00
+06085,"Santa Clara County, California",86.1,87.8,1.7,CA,06,06085503207,Tract 5032.07
+36119,"Westchester County, New York",74.9,72.0,-2.9,NY,36,36119008301,Tract 0083.01
+36003,"Allegany County, New York",56.8,53.1,-3.7,NY,36,36003950300,Tract 9503.00
+36061,"New York County, New York",72.9,77.3,4.4,NY,36,36061004403,Tract 0044.03
+12071,"Lee County, Florida",53.0,53.7,0.7,FL,12,12071050104,Tract 0501.04
+12099,"Palm Beach County, Florida",64.5,64.2,-0.3,FL,12,12099000405,Tract 0004.05
+04027,"Yuma County, Arizona",34.1,36.9,2.8,AZ,04,04027011202,Tract 0112.02
+48113,"Dallas County, Texas",66.6,69.7,3.1,TX,48,48113015405,Tract 0154.05
+12083,"Marion County, Florida",43.5,40.4,-3.1,FL,12,12083000604,Tract 0006.04
+12011,"Broward County, Florida",89.8,85.8,-4.0,FL,12,12011060900,Tract 0609.00
+48113,"Dallas County, Texas",42.9,42.2,-0.7,TX,48,48113020900,Tract 0209.00
+04003,"Cochise County, Arizona",62.5,61.7,-0.8,AZ,04,04003000304,Tract 0003.04
+12071,"Lee County, Florida",53.0,52.7,-0.3,FL,12,12071080300,Tract 0803.00
+12081,"Manatee County, Florida",52.0,54.3,2.3,FL,12,12081001501,Tract 0015.01
+06071,"San Bernardino County, California",30.2,31.9,1.7,CA,06,06071010300,Tract 0103.00
+06059,"Orange County, California",82.3,87.1,4.8,CA,06,06059075605,Tract 0756.05
+12099,"Palm Beach County, Florida",76.1,72.1,-4.0,FL,12,12099007849,Tract 0078.49
+48029,"Bexar County, Texas",81.0,80.0,-1.0,TX,48,48029181811,Tract 1818.11
+36035,"Fulton County, New York",52.6,51.0,-1.6,NY,36,36035970200,Tract 9702.00
+36081,"Queens County, New York",69.8,73.4,3.6,NY,36,36081025301,Tract 0253.01
+06037,"Los Angeles County, California",77.7,75.2,-2.5,CA,06,06037400403,Tract 4004.03
+36047,"Kings County, New York",59.3,56.2,-3.1,NY,36,36047010000,Tract 0100.00
+06001,"Alameda County, California",82.2,81.7,-0.5,CA,06,06001451602,Tract 4516.02
+04013,"Maricopa County, Arizona",80.1,79.3,-0.8,AZ,04,04013071506,Tract 0715.06
+36029,"Erie County, New York",59.6,57.4,-2.2,NY,36,36029012300,Tract 0123.00
+12109,"St. Johns County, Florida",88.5,86.0,-2.5,FL,12,12109020704,Tract 0207.04
+06073,"San Diego County, California",64.4,68.6,4.2,CA,06,06073019109,Tract 0191.09
+12021,"Collier County, Florida",49.3,48.7,-0.6,FL,12,12021000600,Tract 0006.00
+36087,"Rockland County, New York",72.8,76.4,3.6,NY,36,36087010601,Tract 0106.01
+36119,"Westchester County, New York",86.2,86.7,0.5,NY,36,36119010200,Tract 0102.00
+06107,"Tulare County, California",72.8,68.3,-4.5,CA,06,06107002204,Tract 0022.04
+36067,"Onondaga County, New York",57.7,62.7,5.0,NY,36,36067011102,Tract 0111.02
+17197,"Will County, Illinois",66.1,69.5,3.4,IL,17,17197883401,Tract 8834.01
+17031,"Cook County, Illinois",71.9,76.6,4.7,IL,17,17031100200,Tract 1002.00
+48061,"Cameron County, Texas",51.1,55.4,4.3,TX,48,48061012900,Tract 0129.00
+04021,"Pinal County, Arizona",45.4,48.9,3.5,AZ,04,04021001500,Tract 0015.00
+48479,Webb County,70.2,42.8,-27.4,TX,48,48479001701,Tract 0017.01
+48479,Webb County,68.5,40.1,-28.4,TX,48,48479001702,Tract 0017.02

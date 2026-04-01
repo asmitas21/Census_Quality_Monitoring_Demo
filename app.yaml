@@ -1,0 +1,27 @@
+command:
+  - "python"
+  - "-m"
+  - "uvicorn"
+  - "app:app"
+  - "--host"
+  - "0.0.0.0"
+  - "--port"
+  - "8000"
+
+# Update these values for your workspace.
+# PGHOST / PGUSER: Create a Lakebase database and use its endpoint + service principal ID.
+# SERVING_ENDPOINT: A Foundation Model API endpoint available in your workspace.
+# DATABRICKS_WAREHOUSE_ID: The SQL warehouse used for Unity Catalog queries.
+env:
+  - name: PGHOST
+    value: YOUR_LAKEBASE_ENDPOINT.database.REGION.cloud.databricks.com
+  - name: PGPORT
+    value: "5432"
+  - name: PGDATABASE
+    value: census_quality_monitoring
+  - name: PGUSER
+    value: "YOUR_SERVICE_PRINCIPAL_UUID"
+  - name: SERVING_ENDPOINT
+    value: databricks-claude-sonnet-4-5
+  - name: DATABRICKS_WAREHOUSE_ID
+    value: "YOUR_WAREHOUSE_ID"

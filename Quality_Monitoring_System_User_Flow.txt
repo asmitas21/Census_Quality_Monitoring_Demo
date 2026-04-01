@@ -1,0 +1,82 @@
+User Flow Document — Quality Monitoring System (Databricks)
+1. Purpose
+Provide a Databricks-based Quality Monitoring System for Census-like data that enables analysts to monitor operational and data quality performance across time, geography, demographics, and collection modes while respecting Title 13 and Title 26 data protections.
+Core Objectives:
+View snapshots by time, geography, and optional demographic filters.
+Monitor KPI groups: Quality, Response Rate (formerly Coverage), and Operations.
+Identify anomalies versus benchmarks (e.g., ±20% from baseline).
+Support both external benchmarks (e.g., 2020 Census) and data-driven benchmarks (averages).
+Enable demographic analysis (age, sex, race, relationship, tenure) at safe aggregation levels.
+Support Quality Bands (Gold, Silver, Bronze, No-Match — conceptual phase).
+Respect Title 13 / Title 26 entitlements and safe output rules.
+Provide escalation tracking and investigation status management.
+Note: Demographics are person-level characteristics but may be summarized at the household or aggregated level (e.g., % households with children, % by age bucket). Combining geography and demographics is considered a high-value enhancement.
+2. Primary User
+Role: Quality Monitoring Analyst / Operations Analyst
+Needs:
+Fast visibility into what is happening, where, and when.
+Early detection of outliers and shifts.
+Explainable, disclosure-safe summaries.
+Ability to track and communicate investigation findings.
+3. Screens & Core Interactions
+Screen A — Access Gate (SSO + Entitlements)
+Goal: Secure system entry with correct data access permissions.
+Features:
+Single Sign-On authentication.
+Authorization profiles (Title 13 only; Title 13 + Title 26).
+Automatic enforcement of dataset/column restrictions.
+Safe output enforcement rules.
+Screen B — Landing Snapshot Overview
+Goal: Provide immediate quality health overview.
+Includes:
+KPI tiles (based on selected KPI group).
+Top anomalies list.
+Geography hotspot summary (largest benchmark deltas).
+Concept: Analysts may have predefined 'Investigation Topics' that store filters, benchmarks, and anomaly rules. Selecting a topic navigates to the Anomaly Panel and Explainability views.
+Screen C — Anomaly Panel
+Goal: Quickly identify abnormal values.
+Each anomaly includes:
+Impacted KPI.
+Geography and time scope.
+Delta versus benchmark.
+Severity score (magnitude and/or persistence).
+Safe-to-display indicator based on data classification.
+Screen D — Drilldown & Explainability
+Goal: Understand drivers of anomalies.
+Drill dimensions:
+Geography hierarchy (State → County → Tract → Block).
+Time granularity within selected window.
+Optional dimensions (collection mode, segment, workload type — if permitted).
+Explainability Outputs:
+Top contributing geographies or segments.
+Trend chart showing shift onset.
+Distribution analysis (broad shift vs localized spike).
+Screen E — Context Filters
+Goal: Define snapshot context.
+Filters:
+Time window (daily/weekly/monthly + collection phase).
+Geography hierarchy selection.
+Demographic filters (age groups, race, etc.).
+Collection mode (internet, phone, paper, in-person, proxy).
+KPI group selection.
+Benchmark set selection.
+Screen F — Save / Export / Subscribe
+Goal: Share and operationalize insights without case management.
+Actions:
+Save view (filters + KPI + benchmark).
+Export safe summary (aggregated tables/charts only).
+Subscribe to alerts when thresholds are breached.
+Export SQL query for advanced users.
+4. Investigation Tracker & Escalation
+Provide structured tracking for investigation topics and findings.
+Features:
+Status (Open, Monitoring, Explained, Escalated, Closed).
+Notes and analyst commentary.
+Link to saved filter context.
+Escalation flag and notification routing.
+5. Title 13 / Title 26 Handling
+Design Principles:
+Entitlement-driven views based on user profile.
+Aggregated, disclosure-safe outputs only.
+Access logging for auditability.
+Consistent data classification tagging.
