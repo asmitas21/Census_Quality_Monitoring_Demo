@@ -134,7 +134,7 @@ export default function MetricViews() {
         </div>
         <div className="flex items-center gap-2 shrink-0">
           <a
-            href={dashboardUrl(host, "01f122fc869c12ab815025dd13ffbf45") + "#composite_metrics"}
+            href={dashboardUrl(host, import.meta.env.VITE_DASHBOARD_ID || "") + "#composite_metrics"}
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 bg-white/8 hover:bg-white/12 text-white border border-white/15 rounded-lg text-sm font-medium transition flex items-center gap-2"

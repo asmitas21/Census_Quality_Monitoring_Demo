@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useWorkspaceHost, dashboardUrl, dashboardEmbedUrl } from "../hooks/useWorkspaceHost";
 
-const DASHBOARD_ID = "01f122fc869c12ab815025dd13ffbf45";
+const DASHBOARD_ID = import.meta.env.VITE_DASHBOARD_ID || "";
 
 const PAGES = [
   { key: "command_center", label: "Command Center" },

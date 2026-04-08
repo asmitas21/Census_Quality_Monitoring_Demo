@@ -216,7 +216,7 @@ class GenieRequest(BaseModel):
     query: str
 
 
-GENIE_SPACE_ID = os.environ.get("GENIE_SPACE_ID", "01f1291dedc31ae78c941d3faf167a52")
+GENIE_SPACE_ID = os.environ.get("GENIE_SPACE_ID", "")
 
 
 def _poll_genie_message(host: str, token: str, space_id: str, conversation_id: str, message_id: str, max_wait: int = 60) -> dict:
